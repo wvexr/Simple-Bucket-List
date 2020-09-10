@@ -1,0 +1,10 @@
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\bin\Debug\Simple Bucket List.exe.config
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\bin\Debug\Simple Bucket List.exe
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\bin\Debug\Simple Bucket List.pdb
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple Bucket List.csprojAssemblyReference.cache
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple_Bucket_List.Form1.resources
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple_Bucket_List.Properties.Resources.resources
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple Bucket List.csproj.GenerateResource.cache
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple Bucket List.csproj.CoreCompileInputs.cache
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple Bucket List.exe
+C:\Users\chiar\source\repos\Simple Bucket List\Simple Bucket List\obj\Debug\Simple Bucket List.pdb
